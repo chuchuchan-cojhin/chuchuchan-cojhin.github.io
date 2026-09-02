@@ -1,1 +1,1 @@
-# chuchuchan.gitfub.io
+# chuchuchan.github.io
